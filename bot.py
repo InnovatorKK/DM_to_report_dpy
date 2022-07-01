@@ -3,7 +3,7 @@ from nextcord.ext import commands
 import json
 import schedule
 
-token = 'OTE3NzA2MTk3Nzc4NDUyNTEw.Ya8mfw.rptMK4Q8jDq3KFWCNLhmzteNTG8'
+token = ''
 
 #member_list = dict()
 
